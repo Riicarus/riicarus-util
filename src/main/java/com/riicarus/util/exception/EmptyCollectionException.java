@@ -14,4 +14,7 @@ public class EmptyCollectionException extends AssertsFailException {
         super(message);
     }
 
+    public EmptyCollectionException(String message, Throwable cause) {
+        super(message, cause);
+    }
 }

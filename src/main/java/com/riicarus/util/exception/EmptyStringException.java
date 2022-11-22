@@ -14,4 +14,7 @@ public class EmptyStringException extends AssertsFailException {
         super(message);
     }
 
+    public EmptyStringException(String message, Throwable cause) {
+        super(message, cause);
+    }
 }

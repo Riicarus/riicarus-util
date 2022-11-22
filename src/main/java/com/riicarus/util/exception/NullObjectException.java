@@ -14,4 +14,7 @@ public class NullObjectException extends AssertsFailException {
         super(message);
     }
 
+    public NullObjectException(String message, Throwable cause) {
+        super(message, cause);
+    }
 }
