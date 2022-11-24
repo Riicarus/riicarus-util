@@ -1,4 +1,4 @@
-import com.riicarus.util.Asserts;
+import com.riicarus.util.asserts.Asserts;
 import com.riicarus.util.exception.NullObjectException;
 
 import java.util.ArrayList;

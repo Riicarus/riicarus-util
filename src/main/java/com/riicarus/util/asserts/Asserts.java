@@ -1,4 +1,4 @@
-package com.riicarus.util;
+package com.riicarus.util.asserts;
 
 import com.riicarus.util.exception.*;
 
