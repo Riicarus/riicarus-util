@@ -128,7 +128,7 @@ public class Asserts {
     }
 
     /**
-     * 判断是否部位空字符串
+     * 判断是否不为空字符串
      *
      * @param string 受判字符串对象
      * @param message 提示信息
@@ -144,7 +144,7 @@ public class Asserts {
     }
 
     /**
-     * 判断是否不为字符串
+     * 判断是否不为空字符串
      *
      * @param string 受判字符串对象
      * @param exception 要抛出的异常, 运行时异常
